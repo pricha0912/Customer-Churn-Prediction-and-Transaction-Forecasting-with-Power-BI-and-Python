@@ -12,7 +12,7 @@ ________________________________________
 1.	Customer Churn Insights → shows churn risk, drivers, segmentation.
 2.	Transaction Forecasting → predicts future monthly transactions with confidence bands.
 •	Added KPI cards, slicers, and professional formatting.
-•	Ensured design follows TD Bank business needs: customer risk, forecasting, and governance.
+•	Ensured design follows business needs: customer risk, forecasting, and governance.
 ________________________________________
 **3.	 Automated Documentation (Python + VPAX)**
 •	Exported the Power BI data model (VPAX) using DAX Studio.
